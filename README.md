@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/Autor-Gabriel-red)](https://www.linkedin.com/in/gabriel-valadares-wa-bi) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/Autor-Gabriel-red)](https://www.linkedin.com/in/gabriel-valadares-wa-bi)
 
 <p align="center">
   <img src="Banner.png" >
