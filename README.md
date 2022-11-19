@@ -8,6 +8,7 @@
 <sub>*Data Specialist* na MKT Systems</sub>
 
 Tendo experiência com análise de dados em três diferentes frentes do Marketing Digital (CRM, Web Analytics e Mídia) e atualmente em Ecommerce, agrego poder de decisão à área de negócio. gerando mais faturamento e oferecendo diferencial diferencial competitivo à empresa.
+
 Em paralelo, sou professor particular de Matemática.
 
 Certificado em MySQL pela Data Science Academy (DSA) e atualmente de Data Science na Sigmoidal (Carlos Melo).
