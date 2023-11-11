@@ -5,7 +5,7 @@
 </p>
 
 # Gabriel Valadares
-<sub>*Data Analyst*
+<sub>*Data Analyst*</sub>
 Tendo experiência com análise de dados em três diferentes frentes do Marketing Digital (CRM, Web Analytics e Mídia) e atualmente em Ecommerce, agrego poder de decisão à área de negócio. gerando mais faturamento e oferecendo diferencial diferencial competitivo à empresa.
 
 Em paralelo, sou professor particular de Matemática.
