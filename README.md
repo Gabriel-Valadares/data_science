@@ -16,7 +16,6 @@ Certificado em MySQL pela Data Science Academy (DSA) e atualmente de Data Scienc
 **Background:** SQL, Power BI, Data Studio, Data Visualization, Excel avançado, Google Analytics e ferramentas de E-mail Marketing.
 
 **Links:**
-* [Site de Aula](https://gabrielmatematica.com.br)
 * [LinkedIn](https://www.linkedin.com/in/gabriel-valadares-wa-bi)
 * [Medium - a criar](https://www.medium.com)
 
