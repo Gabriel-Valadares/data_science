@@ -10,7 +10,7 @@ Tendo experiência com análise de dados em três diferentes frentes do Marketin
 
 Em paralelo, sou professor particular de Matemática.
 
-Certificado em MySQL pela Data Science Academy (DSA) e atualmente de Data Science na Sigmoidal (Carlos Melo).
+Certificado em MySQL pela Data Science Academy (DSA) e atualmente cursando Data Science na Sigmoidal (Carlos Melo).
 
 **Background:** SQL, Power BI, Data Studio, Data Visualization, Excel avançado, Google Analytics e ferramentas de E-mail Marketing.
 
